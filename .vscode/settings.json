@@ -2,8 +2,10 @@
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "editor.tabSize": 2,
+    "editor.minimap.enabled": true,
     "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true
+        "source.fixAll.eslint": true,
+        "source.fixAll": true,
     },
     "ltex.language": "en",
     "languageTool.enabled": false,
