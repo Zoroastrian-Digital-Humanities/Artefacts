@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [52.89, 29.9368]
+      },
+      "properties": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Apadana"
+      }
+    }
+  ]
+}
