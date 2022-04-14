@@ -6,4 +6,4 @@ The one place to store all artefacts
 
 ### Persepolis / Apadana
 
-* [Carved limestone relief representing a guardsman](./persepolis/apadana/stone-reliefs/guardsman)
+* [Carved limestone relief representing a guardsman](.src/persepolis/apadana/stone-reliefs/guardsman)
