@@ -8,7 +8,6 @@ As a contributor, here are the guidelines we would like you to follow:
 - [Commit Messages Guidelines](#Commit-Messages-Guidelines)
 - [Documentation Guidelines](#Documentation-Guidelines)
 - [Dependencies Guidelines](#Dependencies-Guidelines)
-- [Dev mode vs Prod mode](#Dev-mode-versus-production-mode)
 
 ## Getting started
 
@@ -21,7 +20,7 @@ If you already have `git` and `VS Code` installed on your machine:
   cd Artefacts
   ```
 
-Otherwise, open the repository with GitHub Desktop.
+Otherwise, open the repository with `GitHub Desktop`.
 
 ## Working with VS Code
 
@@ -34,6 +33,8 @@ TBD
 ## Guidelines to add a new Artefact
 
 Basically an artefact is a folder within the `src` folder, which contains a `readme.md` file (a Markdown file), one or more image files, zero or one `map.geojson` file (geo data file).
+
+TBD
 
 ## Markdown Guidelines
 
@@ -65,9 +66,9 @@ Examples:
 
 ```txt
 feat(artefact): add first page of Khordeh Avesta
-docs(artefacts): update curated artefacts list
+docs(artefacts): update curated list of artefacts
 fix(artefact): fix typo in first page of Khordeh Avesta
-...
+
 ```
 
 If you are not sure about how to lable the commit, or how many files to put in the same commit, you can look at the [commits history](https://github.com/Zoroastrian-Digital-Humanities/Artefacts/commits/main).
