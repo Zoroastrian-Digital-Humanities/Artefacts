@@ -11,3 +11,7 @@ The one place to store all artefacts
 ### Ewers
 
 * [Ewer representing the Simorgh](./src/ewers//ewer-representing-the-simorgh/#ewer-representing-the-simorgh)
+
+### Manuscripts
+
+* [First page of Khordeh Avesta](./src/manuscripts/khordeh-avesta/first-page#first-page-of-khordeh-avesta)
