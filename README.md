@@ -20,4 +20,4 @@ The one place to store all artefacts
 
 ### Q: How do I contribute?
 
-You can contribute in many ways. If you find something wrong or have improvement to suggest, please [raise an issue](https://github.com/Zoroastrian-Digital-Humanities/Artefacts/issues) or [start a discussion](https://github.com/Zoroastrian-Digital-Humanities/Artefacts/discussions/1), or [contribute](./CONTRIBUTING.md).
+You can contribute in many ways. If you find something wrong or have improvement to suggest, please [raise an issue](https://github.com/Zoroastrian-Digital-Humanities/Artefacts/issues) or [start a discussion](https://github.com/Zoroastrian-Digital-Humanities/Artefacts/discussions), or [contribute](./CONTRIBUTING.md).
