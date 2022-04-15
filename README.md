@@ -15,3 +15,9 @@ The one place to store all artefacts
 ### Manuscripts
 
 * [First page of Khordeh Avesta](./src/manuscripts/khordeh-avesta/first-page#first-page-of-khordeh-avesta)
+
+## FAQ
+
+### Q: How do I contribute?
+
+You can contribute in many ways. If you find something wrong or have improvement to suggest, please [raise an issue](https://github.com/Zoroastrian-Digital-Humanities/Artefacts/issues) or [start a discussion](https://github.com/Zoroastrian-Digital-Humanities/Artefacts/discussions/1), or [contribute](./CONTRIBUTING.md).
