@@ -38,7 +38,7 @@ All were originally highly coloured, but few traces of the original paints survi
         "coordinates": [52.89, 29.9368]
       },
       "properties": {
-        "wikipedia": '<a href="https://en.wikipedia.org/wiki/Apadana" target="_blank">Apadana</a>',
+        "wikipedia": "https://en.wikipedia.org/wiki/Apadana"
       }
 }
 ```
