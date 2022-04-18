@@ -20,15 +20,17 @@ If you already have `git` and `VS Code` installed on your machine:
   cd Artefacts
   ```
 
-Otherwise, open the repository with `GitHub Desktop`.
+## Working with git
+
+To install `Git` on your machine, follow the instructions on [GitHub](https://github.com/git-guides/install-git).
+
+For a complete installation guide, follow the instructions [here](https://git-scm.com/book/en/v2).
 
 ## Working with VS Code
 
-If you are using VS Code, it is recommanded to install the recommanded extensions.
+To install VS Code, follow the instructions on [this page](https://code.visualstudio.com).
 
-## Working with GitHub Desktop
-
-TBD
+When using VS Code, it is recommanded to install the recommanded extensions.
 
 ## Guidelines to add a new Artefact
 
