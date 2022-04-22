@@ -8,6 +8,7 @@ presented-by:
 museum: State Hermitage Museum, St Petersburg, S-61
 copyright:
 tags: ewer, silver, gilding, Simorgh, Sasanian
+source: The Everlasting Flame | Zoroastrianism in History and Imagination | Edited by Sarah Stewart | Chapter 5 | Imperial and Post Imperial Iran | Jenny Rose and Sarah Stewart | 2013
 ---
 
 # Ewer representing the Simorgh
@@ -19,3 +20,5 @@ Typical Sasanian ewer with medallions on two sides containing images of the Simo
 Between the medallions are sacred trees.
 
 A Sasanian floral design decorates the ewer and lid.
+
+Found in 1833 near Pavlovka in the Kharkov region (Ukraine).
