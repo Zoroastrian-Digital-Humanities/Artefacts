@@ -70,13 +70,13 @@ label(namespace): title
 
 `label` is one of the following:
 
-- `chore` - build-related work, a change in the package.json file, a change in a configuration  file or a change to a script file.
-- `docs` - changes to a markdown file
-- `feat` - a new feature.
-- `fix` - a fix, either in code or in an artefact.
-- `refactor` - a code change that neither fixes a bug nor adds a feature
-- `style` - a change in the code style: spaces/alignment/wrapping etc.
-- `test` - adding missing tests or correcting existing tests.
+- `chore` - build-related work, a change in the package.json file, a change in a configuration  file or a change to a script file;
+- `docs` - changes to a documentation file;
+- `feat` - a new feature, a new artefact or an enhancement of an existing artefact;
+- `fix` - a fix, either in code or in an artefact;
+- `refactor` - a code change that neither fixes a bug nor adds a feature;
+- `style` - a change in the code style: spaces/alignment/wrapping etc.;
+- `test` - adding missing tests or correcting existing tests;
 
 `namespace` is put in parentheses after label and is mandatory. Must be lowercase.
 
@@ -88,7 +88,6 @@ Examples:
 feat(artefact): add first page of Khordeh Avesta
 docs(artefacts): update curated list of artefacts
 fix(artefact): fix typo in first page of Khordeh Avesta
-
 ```
 
 If you are not sure about how to lable the commit, or how many files to put in the same commit, you can look at the [commits history](https://github.com/Zoroastrian-Digital-Humanities/Artefacts/commits/main).
