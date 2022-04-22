@@ -6,7 +6,7 @@ As a contributor, here are the guidelines we would like you to follow:
 
 - [Getting started](#Getting-started)
 - [Commit Messages Guidelines](#Commit-Messages-Guidelines)
-- [Documentation Guidelines](#Documentation-Guidelines)
+- [Markdown Guidelines](#Markdown-Guidelines)
 - [Dependencies Guidelines](#Dependencies-Guidelines)
 
 ## Getting started
