@@ -36,7 +36,25 @@ When using VS Code, it is recommanded to install the recommanded extensions.
 
 Basically an artefact is a folder within the `src` folder, which contains a `readme.md` file (a Markdown file), one or more image files, zero or one `map.geojson` file (geo data file).
 
-TBD
+The `readme.md` file is the main documentation of the artefact. It should always start with a metadata section, which is a list of key-value pairs separated by a colon and a space:
+
+```markdown
+---
+type: 
+location:
+found-at: 
+period: 
+dimensions: 
+presented-by: 
+museum: 
+copyright:
+source: 
+photograph: 
+tags: 
+---
+```
+
+Then it should contain a title, a description.
 
 ## Markdown Guidelines
 
