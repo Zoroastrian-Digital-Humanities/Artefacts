@@ -2,7 +2,7 @@
 
 The one place to store all artefacts
 
-## Curated Artefacts
+## Prototype. Work in progress
 
 ### Persepolis / Apadana
 
