@@ -1,5 +1,5 @@
 ---
-type: xx
+type: test 1
 location: xx
 found-at: xx
 period: xx
