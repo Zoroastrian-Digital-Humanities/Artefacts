@@ -1,11 +1,11 @@
 ---
-type: 
-location:
-found-at: 
-period: 
-dimensions: 
-presented-by: 
-museum:
-copyright:
-tags: 
-source: 
+type: xx
+location: xx
+found-at: xx
+period: xx
+dimensions: xx
+presented-by: xx
+museum: xx
+copyright: xx
+tags: xx
+source: xx
