@@ -30,6 +30,8 @@ The one place to store all artefacts
 
 * [Mullakurgan Ossuary](./src/mullakurgan-ossuary/readme.md#mullakurgan-ossuary)
 
+* [Yumalkatepa Ossuary](./src/yumalkatepa-ossuary/Readme.md#yumalkatepa-ossuary)
+
 ## FAQ
 
 ### Q: How do I contribute?
