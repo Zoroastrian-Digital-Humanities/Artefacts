@@ -1,11 +1,17 @@
 ---
-type: test 1
-location: xx
-found-at: xx
-period: xx
-dimensions: xx
-presented-by: xx
-museum: xx
-copyright: xx
-tags: xx
-source: xx
+type: 
+location: 
+found-at: 
+period: 
+dimensions: 
+presented-by: 
+museum: 
+copyright:
+source: 
+photograph: 
+tags: 
+---
+
+# Yumalkatepa Ossuary
+
+![Yumalkatepa Ossuary](./yumalkatepa-ossuary.png)
