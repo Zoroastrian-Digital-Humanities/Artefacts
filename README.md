@@ -26,6 +26,10 @@ The one place to store all artefacts
 
 * [Hall of Ambassadors](./src/hall-of-ambassadors-painting-in-the-museum-on-afrasiab/Readme.md#hall-of-ambassadors)
 
+### Ossuaries
+
+* [Mullakurgan Ossuary](./src/mullakurgan-ossuary/readme.md#mullakurgan-ossuary)
+
 ## FAQ
 
 ### Q: How do I contribute?
