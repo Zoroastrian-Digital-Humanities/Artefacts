@@ -16,6 +16,10 @@ The one place to store all artefacts
 
 * [First page of Khordeh Avesta](./src/manuscripts/khordeh-avesta/first-page#first-page-of-khordeh-avesta)
 
+### Anquetil Duperron
+
+* [Medallion](./src/Anquetil Duperron/Readme.md)
+
 ## FAQ
 
 ### Q: How do I contribute?
