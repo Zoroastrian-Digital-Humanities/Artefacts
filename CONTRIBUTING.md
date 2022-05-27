@@ -56,6 +56,20 @@ tags:
 
 Then it should contain a title, a description.
 
+If you need to insert images inside that markdown file, you should upload one or more images in the same folder and the image file names should follow the `kebab` file naming convention (more info [here](https://github.com/ayushi7rawat/Youtube-Projects/tree/master/Case%20style%20in%20programming?ref=morioh.com&utm_source=morioh.com#case-style-in-programming)):
+
+- all characters in the file name are in lower case
+- no special characters like `?`, `%`, etc ...
+- spaces between words should be replaced by the `-` character
+
+Examples of correct image file names:
+
+- `anquetil-duperron.png`
+
+Examples of incorrect file names:
+
+- `Anquetil Duperron.png`
+
 ## Markdown Guidelines
 
 - You should follow this [GitHub Guide on Markdown](https://guides.github.com/features/mastering-markdown/)
