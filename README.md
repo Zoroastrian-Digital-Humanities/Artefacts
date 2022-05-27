@@ -18,7 +18,7 @@ The one place to store all artefacts
 
 ### Anquetil Duperron
 
-* [Medallion](./src/anquetil-duperron/Readme.md)
+* [Medallion](./src/anquetil-duperron/Readme.md#anquetil-duperron)
 
 ## FAQ
 
