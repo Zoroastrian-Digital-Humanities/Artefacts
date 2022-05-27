@@ -20,6 +20,8 @@ The one place to store all artefacts
 
 * [Medallion](./src/anquetil-duperron/Readme.md#anquetil-duperron)
 
+* [Title page of Original Zend Avesta](./src/manuscripts/zend-avesta/title-page-of-original-zend-avesta-1771/Readme.md#zend-avesta)
+
 ### Afrasiab
 
 * [Hall of Ambassadors](./src/hall-of-ambassadors-painting-in-the-museum-on-afrasiab/Readme.md#hall-of-ambassadors)
