@@ -20,6 +20,10 @@ The one place to store all artefacts
 
 * [Medallion](./src/anquetil-duperron/Readme.md#anquetil-duperron)
 
+### Afrasiab
+
+* [Hall of Ambassadors](./src/hall-of-ambassadors-painting-in-the-museum-on-afrasiab/Readme.md#hall-of-ambassadors)
+
 ## FAQ
 
 ### Q: How do I contribute?
